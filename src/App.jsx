@@ -6,7 +6,7 @@ import Card from './components/Card'
 
 function App() {
   
-  const [color, setColor] = useState("black")
+  const [color, setColor] = useState("white")
 
   return (
     <>
